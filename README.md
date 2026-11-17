@@ -25,6 +25,26 @@ This repository contains my assignments and practical work for the Machine Learn
 - Variance Threshold
 - Feature Ranking
 - Selecting the Top 10 Features
+- ### Assignment 4 - Feature Selection (Wrapper and Embedded Methods)
+
+- Breast Cancer Wisconsin Dataset
+- Selecting the Top 10 Features
+
+**Wrapper Methods:**
+- Forward Selection
+- Backward Elimination
+- Recursive Feature Elimination (RFE)
+
+**Embedded Methods:**
+- LASSO (L1 Regularization)
+- Ridge (L2 Regularization)
+- Random Forest Feature Importance
+
+**Model Evaluation:**
+- Logistic Regression
+- 5-Fold Stratified Cross-Validation
+- Accuracy Comparison
+- Feature Selection Results Visualization
 
 ## Tools and Technologies
 - Python
